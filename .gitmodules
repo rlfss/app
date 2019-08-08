@@ -2,3 +2,8 @@
 	path = rlfss/apps
 	url = git@github.com:rlfss/apps.git
 	branch = OCA
+
+[submodule "rlfss/000"]
+	path = rlfss/000
+	url = git@github.com:rlfss/000.git
+	branch = master
