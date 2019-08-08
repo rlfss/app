@@ -1,0 +1,4 @@
+[submodule "rlfss/apps"]
+	path = rlfss/apps
+	url = git@github.com:rlfss/apps.git
+	branch = OCA
